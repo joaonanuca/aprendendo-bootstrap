@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.image-top {
+    padding-left: 25px;
+}
+
+.navbar {
+    background-color:rgb(93, 161, 184);
+}
+
+.quem-somos {
+    background-color: lightblue;
+}
+
+.quem-somos-title {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.quem-somos-content {
+    font-size: 30px;
+}
+
+.margin {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.parceiros-title {
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: #58FAF4;
+}
+
+.img-parceiros {
+    width: 100%;
+}
+
+.bg-footer {
+    background-color: rgb(5, 85, 112);
+    color: white;
+}
